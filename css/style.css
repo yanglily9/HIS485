@@ -16,7 +16,7 @@ body {
   font-size: 10px;
   line-height: 1.7;
   color: #777;
-  background: #777;
+  background: #fff;
 }
 
 #page {
@@ -185,7 +185,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .gtco-nav ul li > a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 16px;
   letter-spacing: .08em;
   padding: 30px 10px;
   color: rgba(255, 255, 255, 0.7);
@@ -302,7 +302,7 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(255, 255, 255, 1);
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -656,7 +656,7 @@ form label {
 .gtco-cover .display-tc .intro-text-small {
   font-size: 14px;
   text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 1);
   letter-spacing: .15em;
   display: block;
   margin-bottom: 10px;
@@ -742,7 +742,10 @@ form label {
 #gtco-subscribe,
 #gtco-footer,
 .gtco-section {
-  padding: 7em 0;
+  padding-top: 0em;
+  padding-right: 0px;
+  padding-bottom: 0em;
+  padding-left: 0px;
   clear: both;
   position: relative;
 }
@@ -1069,7 +1072,7 @@ form label {
 .gtco-heading p {
   font-size: 20px;
   line-height: 1.5;
-  color: gray;
+  color: white;
 }
 
 #gtco-products {
@@ -1148,7 +1151,7 @@ form label {
 }
 
 #gtco-footer {
-  padding-top: 10em;
+  padding-top: 0em;
   background: #4d4d4d;
   color: rgba(255, 255, 255, 0.3);
 }
@@ -2130,8 +2133,8 @@ form label {
   color: #66D37E;
 }
 
-.text p{
-  color: white;
+#gtco-header p{
+  color: black;
 }
 
 /*# sourceMappingURL=style.css.map */
