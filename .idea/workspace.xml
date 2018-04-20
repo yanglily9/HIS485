@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="490b53f1-2c57-4620-bb71-fca65e11525b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -100,8 +99,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="1887" column="35" lean-forward="false" selection-start-line="1887" selection-start-column="35" selection-end-line="1887" selection-end-column="35" />
+            <state relative-caret-position="129">
+              <caret line="298" column="21" lean-forward="false" selection-start-line="298" selection-start-column="14" selection-end-line="298" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -132,6 +131,7 @@
       <find>p</find>
       <find>header</find>
       <find>12px</find>
+      <find>overlay</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -243,12 +243,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524183652277</updated>
-      <workItem from="1524183655577" duration="4049000" />
+      <workItem from="1524183655577" duration="4213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4049000" />
+    <option name="totallyTimeSpent" value="4213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="782" extended-state="0" />
@@ -422,8 +422,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="1887" column="35" lean-forward="false" selection-start-line="1887" selection-start-column="35" selection-end-line="1887" selection-end-column="35" />
+        <state relative-caret-position="129">
+          <caret line="298" column="21" lean-forward="false" selection-start-line="298" selection-start-column="14" selection-end-line="298" selection-end-column="21" />
           <folding />
         </state>
       </provider>
